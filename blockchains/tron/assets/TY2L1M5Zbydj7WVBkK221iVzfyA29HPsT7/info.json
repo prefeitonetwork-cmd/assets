@@ -1,0 +1,8 @@
+{
+ "name": "Korvex",
+ "symbol": "KVX",
+ "type": "TRC20",
+ "decimals": 18,
+ "description": "Korvex Token",
+ "explorer": "https://tronscan.org/#/contract/TY2L1M5Zbydj7WVBkK221iVzfyA29HPsT7"
+}
