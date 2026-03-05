@@ -1,1 +1,24 @@
-
+{
+  "name": "Korvex",
+  "symbol": "KVX",
+  "type": "trc20",
+  "decimals": 18,
+  "description": "Korvex Token",
+  "website": "https://korvex.sbs",
+  "status": "active",
+  "id": "korvex",
+  "tags": [
+    "defi"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://korvex.sbs"
+    },
+    {
+      "name": "tronscan",
+      "url": "https://tronscan.io/#/token20/TX1cz9fFWCoUkKAnoqPm81hhPoNENvjANH"
+    }
+  ],
+  "explorer": "https://tronscan.io/#/token20/TX1cz9fFWCoUkKAnoqPm81hhPoNENvjANH"
+}
