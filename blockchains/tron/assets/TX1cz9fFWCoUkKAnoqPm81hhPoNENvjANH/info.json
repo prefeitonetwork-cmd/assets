@@ -6,8 +6,6 @@
   "website": "https://korvex.sbs",
   "description": "Korvex Token",
   "status": "active",
-  "id": "korvex",
-  "tags": ["defi"],
   "links": [
     {
       "name": "website",
@@ -17,6 +15,5 @@
       "name": "tronscan",
       "url": "https://tronscan.org/#/token20/TX1cz9fFWCoUkKAnoqPm81hhPoNENvjANH"
     }
-  ],
-  "explorer": "https://tronscan.org/#/token20/TX1cz9fFWCoUkKAnoqPm81hhPoNENvjANH"
+  ]
 }
